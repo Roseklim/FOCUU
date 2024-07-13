@@ -1,5 +1,5 @@
 {
-    "default_model": "FluentlyXL-v4.safetensors",
+    "default_model": "perfectdeliberate_v5.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -24,13 +24,13 @@
             1.0
         ]
     ],
-    "default_cfg_scale": 4.0,
+    "default_cfg_scale": 7.0,
     "default_sample_sharpness": 2.0,
-    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_sampler": "DPM++ 2M Karras",
     "default_scheduler": "karras",
     "default_performance": "Extreme Speed",
-    "default_prompt": "",
-    "default_prompt_negative": "",
+    "default_prompt": "photorealistic, 35mm, intricate details, hdr, intricate details, hyperdetailed, natural skin texture, hyperrealism, sharp, 1 girl",
+    "default_prompt_negative": "EasyNegative, fat, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, ((monochrome)), ((grayscale)), bad anatomy, text, error, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet, poorly drawn face, bad proportions, gross proportions, ng_deepnegative_v1_75t, badhandsv5-neg, clothes",
     "default_styles": [
         "Fooocus V2",
         "Fooocus Enhance",
@@ -39,13 +39,11 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "FluentlyXL-v4.safetensors": "https://huggingface.co/fluently/Fluently-XL-v4/resolve/main/FluentlyXL-v4.safetensors"
+        "perfectdeliberate_v5.safetensors": "https://civitai.com/api/download/models/253055?type=Model&format=SafeTensor&size=full&fp=fp32"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
     "previous_default_models": [
-        "FluentlyXL-v3.safetensors",
-        "FluentlyXL-v2.safetensors",
-        "FluentlyXL-v1.safetensors"
+       
     ]
 }
