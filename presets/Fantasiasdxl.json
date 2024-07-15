@@ -1,5 +1,5 @@
 {
-    "default_model": "sdxl_lightning_1step_x0.safetensors",
+    "default_model": "SDXLFaetastic_v24.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -39,7 +39,7 @@
     "default_aspect_ratio": "1024*1024",
     "default_overwrite_step": 1,
     "checkpoint_downloads": {
-        "sdxl_lightning_1step_x0.safetensors": "https://huggingface.co/ByteDance/SDXL-Lightning/resolve/main/sdxl_lightning_1step_x0.safetensors"
+        "SDXLFaetastic_v24.safetensors": "https://civitai.com/api/download/models/291443?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
