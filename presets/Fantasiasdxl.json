@@ -8,7 +8,7 @@
             1.0
         ],
         [
-            "roundassv1.safetensors",
+            "none",
             1.0
         ],
         [
@@ -44,7 +44,6 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "HaremDancer_v1.safetensors": "https://civitai.com/api/download/models/23879?type=Model&format=SafeTensor&size=full&fp=fp16",
-        "roundassv1.safetensors": "
         "oversized_sweater.safetensors": "https://civitai.com/api/download/models/57273?type=Model&format=SafeTensor"
         "badbroirezumi3.safetensors" "https://civitai.com/api/download/models/76016?type=Model&format=SafeTensor"
     },
