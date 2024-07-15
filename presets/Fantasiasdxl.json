@@ -8,15 +8,15 @@
             1.0
         ],
         [
-            "None",
+            "roundassv1.safetensors",
             1.0
         ],
         [
-            "None",
+            "oversized_sweater.safetensors",
             1.0
         ],
         [
-            "None",
+            "badbroirezumi3.safetensors",
             1.0
         ],
         [
@@ -29,7 +29,7 @@
     "default_sampler": "euler",
     "default_scheduler": "sgm_uniform",
     "default_performance": "Speed",
-    "default_prompt": "",
+    "default_prompt": " ( LoRA baile adornado, intrincado, agua, partículas de luz, brillos, brillante, cadena para el vientre, tobillera, vestido, viento, culo redondo, desde atrás, hourglass body shape,tattoo, irezumi,)",
     "default_prompt_negative": "",
     "default_styles": [
         "Fooocus V2",
@@ -42,6 +42,11 @@
         "SDXLFaetastic_v24.safetensors": "https://civitai.com/api/download/models/291443?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "HaremDancer_v1.safetensors": "https://civitai.com/api/download/models/23879?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "roundassv1.safetensors": "
+        "oversized_sweater.safetensors":https://civitai.com/api/download/models/57273?type=Model&format=SafeTensor"
+        "badbroirezumi3.safetensors" "https://civitai.com/api/download/models/76016?type=Model&format=SafeTensor"
+    },
     "previous_default_models": []
 }
