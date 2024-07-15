@@ -41,8 +41,13 @@
     "checkpoint_downloads": {
         "FluentlyXL-v4.safetensors": "https://huggingface.co/fluently/Fluently-XL-v4/resolve/main/FluentlyXL-v4.safetensors",
         "Reliberate_v3.safetensors": "https://huggingface.co/XpucT/Reliberate/resolve/main/Reliberate_v3.safetensors"
+        
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+        "HaremDancer_v1.safetensors": "https://civitai.com/api/download/models/23879?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "oversized_sweater.safetensors": "https://civitai.com/api/download/models/57273?type=Model&format=SafeTensor".
+        "badbroirezumi3.safetensors": "https://civitai.com/api/download/models/76016?type=Model&format=SafeTensor"
+    },
     "previous_default_models": []
 }
