@@ -4,15 +4,15 @@
     "default_refiner_switch": 0.1,
     "default_loras": [
         [
-            "None",
+            "aremDancer_v1.safetensors",
             1.0
         ],
         [
-            "None",
+            "Oversized_Sweater_by_Stable_Yogi.safetensors",
             1.0
         ],
         [
-            "None",
+            "badbroirezumi3.safetensors",
             1.0
         ],
         [
@@ -46,8 +46,8 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "HaremDancer_v1.safetensors": "https://civitai.com/api/download/models/23879?type=Model&format=SafeTensor&size=full&fp=fp16",
-        "oversized_sweater.safetensors": "https://civitai.com/api/download/models/57273?type=Model&format=SafeTensor",
-        "badbroirezumi3.safetensors": "https://civitai.com/api/download/models/76016?type=Model&format=SafeTensor"
+        "Oversized_Sweater_by_Stable_Yogi.safetensors": "https://huggingface.co/GregoRio123/Dgy/resolve/2cb42177069246268049bc976b3288c3d0b5c5c8/Oversized%20Sweater%20by%20Stable%20Yogi.safetensors",
+        "badbroirezumi3.safetensors": "https://huggingface.co/nahuiyang/custom/resolve/7df1903fb17ef90eac586052b52a49de8d250707/badbroirezumi3.safetensors"
     },
     "previous_default_models": []
 }
