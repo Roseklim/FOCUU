@@ -1,5 +1,5 @@
 {
-    "default_model": "FluentlyXL-v4.safetensors", "uberRealisticPornMerge_urpmv12-inpainting.safetensors",
+    "default_model": "uberRealisticPornMerge_urpmv12-inpainting.safetensors",
     "default_refiner": "Reliberate_v3.safetensors",
     "default_refiner_switch": 0.1,
     "default_loras": [
@@ -16,11 +16,11 @@
             1.0
         ],
         [
-            "None",
+            ""filmgrain_v1.safetensors"",
             1.0
         ],
         [
-            "None",
+            ""URPMv1.3_LORA_296.safetensors",
             1.0
         ]
     ],
@@ -39,7 +39,6 @@
     "default_aspect_ratio": "1024*1024",
     "default_overwrite_step": 25,
     "checkpoint_downloads": {
-        "FluentlyXL-v4.safetensors": "https://huggingface.co/fluently/Fluently-XL-v4/resolve/main/FluentlyXL-v4.safetensors",
         "Reliberate_v3.safetensors": "https://huggingface.co/XpucT/Reliberate/resolve/main/Reliberate_v3.safetensors",
         "uberRealisticPornMerge_urpmv12-inpainting.safetensors": "https://huggingface.co/dwarfbum/Uber-Realistic-Porn-Merge_URPM/resolve/main/uberRealisticPornMerge_urpmv12-inpainting.safetensors"
         
