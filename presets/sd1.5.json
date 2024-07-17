@@ -1,5 +1,5 @@
 {
-    "default_model": "FluentlyXL-v4.safetensors", "uberRealisticPornMerge_urpmv12-inpainting.safetensors"
+    "default_model": "FluentlyXL-v4.safetensors", "uberRealisticPornMerge_urpmv12-inpainting.safetensors",
     "default_refiner": "Reliberate_v3.safetensors",
     "default_refiner_switch": 0.1,
     "default_loras": [
