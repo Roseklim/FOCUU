@@ -1,14 +1,14 @@
 {
-    "default_model": "SDXLFaetastic_v24.safetensors",
+    "default_model": "uberRealisticPornMerge_urpmv13.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "HaremDancer_v1.safetensors",
-            1.0
+            "MS_Real_PantsDown.safetensors",
+            0.8
         ],
         [
-            "none",
+            "URPMv1.3_LORA_296.safetensors",
             1.0
         ],
         [
@@ -16,7 +16,7 @@
             1.0
         ],
         [
-            "badbroirezumi3.safetensors",
+            "airoticart_vulvdet1-LORA.safetensors",
             1.0
         ],
         [
@@ -29,7 +29,7 @@
     "default_sampler": "euler",
     "default_scheduler": "sgm_uniform",
     "default_performance": "Speed",
-    "default_prompt": " ( LoRA baile adornado, intrincado, agua, partículas de luz, brillos, brillante, cadena para el vientre, tobillera, vestido, viento, culo redondo, desde atrás, hourglass body shape,tattoo, irezumi,)",
+    "default_prompt": " ( ass, from behind, clothes pull, pants,underwear, looking back, pants pull, anus,pussy, undressing,)",
     "default_prompt_negative": "",
     "default_styles": [
         "Fooocus V2",
@@ -39,13 +39,15 @@
     "default_aspect_ratio": "1024*1024",
     "default_overwrite_step": 1,
     "checkpoint_downloads": {
-        "SDXLFaetastic_v24.safetensors": "https://civitai.com/api/download/models/291443?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "uberRealisticPornMerge_urpmv13.safetensors": "https://civitai.com/api/download/models/15640?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "HaremDancer_v1.safetensors": "https://civitai.com/api/download/models/23879?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "MS_Real_PantsDown.safetensors": "https://civitai.com/api/download/models/46275?type=Model&format=SafeTensor",
         "oversized_sweater.safetensors": "https://civitai.com/api/download/models/57273?type=Model&format=SafeTensor",
-        "badbroirezumi3.safetensors": "https://civitai.com/api/download/models/76016?type=Model&format=SafeTensor"
+        "URPMv1.3_LORA_296.safetensors": "https://civitai.com/api/download/models/26552?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "airoticart_vulvdet1-LORA.safetensors": "https://civitai.com/api/download/models/17355?type=Model&format=SafeTensor&size=full&fp=fp16",
+        
     },
     "previous_default_models": []
 }
