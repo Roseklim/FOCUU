@@ -1,14 +1,14 @@
 {
-    "default_model": "uberRealisticPornMerge_urpmv13.safetensors",
+    "default_model": "uberRealisticPornMerge_urpmv12-inpainting.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "MS_Real_PantsDown.safetensors",
-            0.8
+            "FilmGrain-LoRA-stablediffusion",
+            1.0
         ],
         [
-            "URPMv1.3_LORA_296.safetensors",
+            "MJ52.safetensors",
             1.0
         ],
         [
@@ -16,7 +16,7 @@
             1.0
         ],
         [
-            "airoticart_vulvdet1-LORA.safetensors",
+            "DarkLighting.safetensors",
             1.0
         ],
         [
@@ -39,14 +39,14 @@
     "default_aspect_ratio": "1024*1024",
     "default_overwrite_step": 1,
     "checkpoint_downloads": {
-        "uberRealisticPornMerge_urpmv13.safetensors": "https://civitai.com/api/download/models/15640?type=Model&format=SafeTensor&size=full&fp=fp16"
+        "uberRealisticPornMerge_urpmv12-inpainting.safetensors": "https://huggingface.co/dwarfbum/Uber-Realistic-Porn-Merge_URPM/resolve/main/uberRealisticPornMerge_urpmv12-inpainting.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "MS_Real_PantsDown.safetensors": "https://civitai.com/api/download/models/46275?type=Model&format=SafeTensor",
-        "oversized_sweater.safetensors": "https://civitai.com/api/download/models/57273?type=Model&format=SafeTensor",
+        "filmgrain_v1.safetensors": "https://huggingface.co/markredito/FilmGrain-LoRA-stablediffusion/blob/main/filmgrain_v1.safetensors",
+        "MJ52.safetensors": "https://civitai.com/api/download/models/283697?type=Model&format=SafeTensor",
         "URPMv1.3_LORA_296.safetensors": "https://civitai.com/api/download/models/26552?type=Model&format=SafeTensor&size=full&fp=fp16",
-        "airoticart_vulvdet1-LORA.safetensors": "https://civitai.com/api/download/models/17355?type=Model&format=SafeTensor&size=full&fp=fp16",
+        "DarkLighting.safetensors": "https://civitai.com/api/download/models/164807?type=Model&format=SafeTensor",
         
     },
     "previous_default_models": []
