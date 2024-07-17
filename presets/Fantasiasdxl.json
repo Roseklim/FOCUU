@@ -30,8 +30,7 @@
     "default_scheduler": "sgm_uniform",
     "default_performance": "Speed",
     "default_prompt": " ( ass, from behind, clothes pull, pants,underwear, looking back, pants pull, anus,pussy, undressing,)",
-    "default_prompt_negative": "((blurry)), animated, cartoon, duplicate, child, childish
-",
+    "default_prompt_negative": "((blurry)), animated, cartoon, duplicate, child, childish",
     "default_styles": [
         "Fooocus V2",
         "Fooocus Enhance",
