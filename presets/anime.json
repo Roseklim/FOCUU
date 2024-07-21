@@ -1,5 +1,5 @@
 {
-    "default_model": "animaPencilXL_v100.safetensors", "uberRealisticPornMerge_urpmv12-inpainting.safetensors"
+    "default_model": "animaPencilXL_v100.safetensors", 
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -40,7 +40,6 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "animaPencilXL_v100.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/animaPencilXL_v100.safetensors",
-        "uberRealisticPornMerge_urpmv12-inpainting.safetensors": "https://huggingface.co/dwarfbum/Uber-Realistic-Porn-Merge_URPM/resolve/main/uberRealisticPornMerge_urpmv12-inpainting.safetensors",
     },
     "default_refiner": "None",
    
