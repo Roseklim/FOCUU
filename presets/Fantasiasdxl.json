@@ -39,7 +39,7 @@
     "default_aspect_ratio": "1024*1024",
     "default_overwrite_step": 1,
     "checkpoint_downloads": {
-        "uberRealisticPornMerge_urpmv12-inpainting.safetensors": "https://huggingface.co/dwarfbum/Uber-Realistic-Porn-Merge_URPM/resolve/main/uberRealisticPornMerge_urpmv12-inpainting.safetensors"
+        "uberRealisticPornMerge_urpmv12-inpainting.safetensors": "https://huggingface.co/dwarfbum/Uber-Realistic-Porn-Merge_URPM/resolve/main/uberRealisticPornMerge_urpmv12-inpainting.safetensors",
     },
     "embeddings_downloads": {},
     "lora_downloads": {
